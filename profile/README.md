@@ -1,5 +1,7 @@
-## Hi there 👋
-Eduwaste is
+## EduWaste
+EduWaste dapat menjadi solusi yang tepat. Aplikasi ini dapat membedakan jenis-jenis sampah yang dapat didaur ulang atau tidak serta memberikan informasi bagaimana cara memilah sampah dengan benar dan lokasi pusat daur ulang sampah terdekat dari lokasi pengguna.
+# Tujuan
+Dengan adanya aplikasi ini diharapkan dapat meningkatkan kesadaran masyarakat dalam membuang sampah dengan benar dan memilah berdasarkan jenisnya. Selain itu, aplikasi ini juga dapat membantu dalam proses pengolahan sampah menjadi lebih baik dan berkelanjutan, serta memberikan informasi mengenai lokasi pusat daur ulang sampah terdekat. Dengan adanya aplikasi ini, diharapkan masyarakat dapat turut berkontribusi dalam menjaga kebersihan lingkungan dan menciptakan lingkungan yang lebih sehat dan ramah lingkungan.
 <!--
 
 **Here are some ideas to get you started:**
